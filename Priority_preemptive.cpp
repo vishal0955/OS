@@ -181,10 +181,7 @@ void scheduling(Process Heap[], Process array[], int n,
 } 
 
   
-// This function is responsible for 
-// managing the entire execution of the 
-// processes as they arrive in the CPU 
-// according to their arrival time. 
+// This function is responsible for managing the entire execution of the  processes as they arrive in the CPU  according to their arrival time. 
 
 void priority(Process array[], int n) 
 { 
